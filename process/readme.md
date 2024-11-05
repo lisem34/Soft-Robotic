@@ -263,6 +263,7 @@ Le Disperseur d’Énergie – The Energetic Scatterer
 Le Disperseur d’Énergie is the most lively and spirited of the assistants. Always in motion, he zips and hops around the room, unable to stay still for long. With pulsing lights and flexible arms that wave about as he moves, he spreads beads and tools everywhere in his wake. Eager to help, he frequently passes you items—but his hasty movements often lead to objects dropping or scattering. His relentless enthusiasm is infectious, filling the room with energy and motivating creativity, yet his hyperactive nature keeps him from ever being genuinely helpful. Instead, he becomes a playful force of chaos, turning the workspace into an unpredictable, lively scene.
 
 ![Screenshot](images/Captureécran02.jpg)
+![Screenshot](images/Captureécran03.jpg)
 
 ## To summarize my research
 
