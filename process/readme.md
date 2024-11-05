@@ -252,18 +252,29 @@ Four differents assistant:
 
 Bobine – The Clumsy Assistant
 Bobine is an endearing but perpetually clumsy helper. Though well-intentioned, his assistance usually results in unintended messes. As he moves around the room, his slightly sticky surfaces pick up stray beads, which he inadvertently drops in random places, spreading clutter as he tries to help. His actions are well-meaning but impractical: he attempts to replicate your beadwork or pass you tools, but his awkward movements and frequent spills make him more of a comic sidekick than a true assistant. Bobine brings levity to the workspace, his unexpected contributions sparking laughter and adding charm to the creative process.
+![Screenshot](images/02.jpg)
+![Screenshot](images/B1.jpg)
+![Screenshot](images/B2.jpg)
 
 Le Garde du Désordre – The Orderly but Inept Organizer
 Le Garde du Désordre takes himself very seriously, as though he is the guardian of organization in your studio. With a boxy, structured form and small mechanical arms, he constantly attempts to align and tidy items on the table. However, his rigid approach clashes with the chaotic, creative nature of jewelry-making, and his efforts to "organize" often create more disarray. Each time he straightens a box or places beads "in order," things inevitably spill or fall. Despite his intentions to impose order, his neurotic need to tidy becomes a source of chaos itself, unintentionally embodying the messiness he seeks to eliminate.
+![Screenshot](images/03.jpg)
+![Screenshot](images/A.jpg)
 
 L’Observateur Curieux – The Silent Observer
 L’Observateur Curieux is a quiet, gentle presence in the workspace. He’s small, round, with luminous eyes that give him an inquisitive, almost childlike demeanor. Fascinated by the jewelry-making process, he watches each of your movements closely, mirroring your actions with a slight delay. Though he rarely intervenes, his attempts to imitate you are clumsy and endearing, often leading to small, harmless mistakes. He occasionally picks up fallen items, placing them delicately in unexpected spots, as if trying to contribute. His quiet curiosity and attempts at mimicry make him feel like a loyal, if slightly confused, companion.
+![Screenshot](images/04.jpg)
+![Screenshot](images/C1.jpg)
 
 Le Disperseur d’Énergie – The Energetic Scatterer
 Le Disperseur d’Énergie is the most lively and spirited of the assistants. Always in motion, he zips and hops around the room, unable to stay still for long. With pulsing lights and flexible arms that wave about as he moves, he spreads beads and tools everywhere in his wake. Eager to help, he frequently passes you items—but his hasty movements often lead to objects dropping or scattering. His relentless enthusiasm is infectious, filling the room with energy and motivating creativity, yet his hyperactive nature keeps him from ever being genuinely helpful. Instead, he becomes a playful force of chaos, turning the workspace into an unpredictable, lively scene.
+![Screenshot](images/05.jpg)
+![Screenshot](images/D1.jpg)
+![Screenshot](images/D2.jpg)
 
 ![Screenshot](images/Captureécran02.jpg)
 ![Screenshot](images/Captureécran03.jpg)
+
 
 ## To summarize my research
 
@@ -290,3 +301,5 @@ Resume: The assistant is a quirky, unpredictable presence in our jewelry-making 
 Designed with the best intentions, the assistant wants to help, but its contributions are often more amusing than useful. Its actions range from nervously tidying scattered beads into organized rows, only to spill them seconds later, to intently observing your every move, attempting to mimic your beadwork with innocent yet misguided dedication. When it isn't arranging and rearranging your tools in an endless loop, it’s enthusiastically zipping around, picking up and dropping objects in random places, inadvertently creating more clutter than it cleans.
 
 Rather than a strict helper, this assistant is a playful, almost clumsy partner who makes the creative process feel lively and animated. It’s always present, whether arranging, scattering, observing, or bustling with energy, blurring the line between object and companion. Ultimately, it brings a sense of joy and companionship to the workspace, creating a shared experience of spontaneity, laughter, and creative exploration.
+
+![Screenshot](images/01.jpg)
