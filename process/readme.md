@@ -380,3 +380,15 @@ This assistant is a lively, hyperactive who eagerly joins in but creates chaos. 
 I will focus on the composition, and de-composition of the robot by the elements that it takes in his spaces.
 
 # Paper research
+On this research I was focus on elements in paper that I would combine to create a form.
+
+![Screenshot](images/Plan01.jpg)
+
+After this research of elements, I keep 3 most interesting one and made more of them to create a big form and make it moves.
+
+![Screenshot](images/Plan02.jpg)
+![Screenshot](images/Plan03.jpg)
+
+I will keep continue on these types of forms with a real combine form to a explod form.
+
+![Screenshot](images/IMG_3300.HEIC)
